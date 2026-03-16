@@ -1,8 +1,10 @@
 # InspirED: Next-Gen AI Tutor & Learning Platform
 
+While digital platforms have made content abundant, delivery still follows a one-size-fits-all model. Our solution, InspireED treats every student as a distinct cognitive profile rather than a generic user.  
+
 InspirED is a comprehensive educational platform that leverages AI to provide personalized learning experiences. It features a React-based frontend, a Node.js backend, and a robust AI service powered by Ollama and RAG (Retrieval-Augmented Generation).
 
-Key Features
+### Key Features
 
 - **Personalized AI Tutor**: Answers student questions based on uploaded course materials (PDFs).
 - **Interactive Mode**: Conversational AI logic with Text-to-Speech (TTS) capabilities.
